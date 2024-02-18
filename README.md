@@ -1,1 +1,1 @@
-# richest_data
+EDA for Richest_dataset
